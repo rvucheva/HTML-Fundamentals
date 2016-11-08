@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<title>The runners Home&trade;</title>
+</head>
+
+<body>
+	<br>Hello, Stranger!</br>
+	<h1>Welcome to Runners Home&trade;</h1>
+	<h2>Runners Home&trade; is dedicated to providing you with:</h2>
+	<div>
+		<ul type="disc">
+			<li>The most up-to-date information on running races.</li>
+			<li>The best resources for runners.</li>
+		</ul>
+	</div>
+	<hr></hr>
+
+	<p>&copy; Runners Home. All rights reserved.</p>
+</body>
+
+</html>
